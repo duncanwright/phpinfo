@@ -1,2 +1,2 @@
 # phpinfo
-simple phpinfo
+simple phpinfo script for testing purposes
